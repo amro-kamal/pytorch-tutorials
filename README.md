@@ -1,5 +1,6 @@
 # pytorch-tutorials
 Tutorials to learn pytorch.
+
 I didn't create these tutirials. Here I am just collecting them to return back to them when I need them. 
 
 content:
