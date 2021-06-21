@@ -1,7 +1,7 @@
 # pytorch-tutorials
 Tutorials to learn pytorch.
 
-I didn't create all of these tutorials. Some of them are from offical pytorch documentation. Here I am just collecting them to return back to them when I need them. 
+I didn't create all of these tutorials. Some of them are from offical pytorch documentation. Here I am just collecting them to return back to them when I need them. All the tutorials are colab notebooks. 
 
 content:
 - [ ] Tensorboard Tutorial
