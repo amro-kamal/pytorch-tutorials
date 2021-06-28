@@ -9,5 +9,6 @@ content:
 - [ ] Pytorch/XLA Alexnet TPU training
 - [ ] Pytorch/XLA Resnet18 TPU training
 - [ ] Saving and loading pytorch models
+- [ ] Torchvision Transforms
 
 
